@@ -1,0 +1,1 @@
+## vcpkg+cmake+msbuild+msvc

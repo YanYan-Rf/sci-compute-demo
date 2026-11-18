@@ -1,0 +1,8 @@
+{
+  "name": "sci-compute-demo",
+  "version": "1.0.0",
+  "dependencies": [
+    "eigen3",
+    "fftw3"
+  ]
+}
